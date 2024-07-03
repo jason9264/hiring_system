@@ -1,0 +1,24 @@
+# CSC 116 Grader,10,11
+* 1,Reviewing,Cailin,Roach,cvroach,tnmacnei,
+* 2,Rejected,Clinton,Armstrong,carmstr,,Qualifications
+* 5,Hired,Craig,Armstrong,carmstr,tnmacnei,
+* 7,Inactive,Audrey,Kemp,akemp,tnmacnei,Fired
+* 25,Interviewing,Harper,Holden,hholden,tnmacnei,
+* 3,Processing,Eagan,Cardenas,ecarden,tnmacnei
+* 4,Processing,Ferdinand,Acevedo,faceved,tnmacnei
+* 5,Inactive,Alika,Reilly,areilly,tnmacnei,Resigned
+# CSC 216 PTF,12,15
+* 2,Submitted,Carol,Schmidt,cschmid,,
+* 3,Rejected,Kathleen,Gillespie,kgilles,,Incomplete
+* 4,Hired,Fiona,Rosario,frosari,sesmith5,
+* 7,Inactive,Deanna,Sanders,dsander,sesmith5,Completed
+* 8,Interviewing,Benjamin,Nieves,bmnieves,sesmith5,
+* 11,Processing,Quemby,Mullen,qmullen,sesmith5,
+# CSC 226 Grader,8,15
+* 4,Submitted,Myra,Atkins,mlatkins,jdyoung2,
+* 5,Hired,Karen,Mcguire,kamcguir,jdyoung2,
+* 7,Interviewing,Dean,Wilder,dwilder,jdyoung2,
+* 8,Inactive,Nehru,Contreras,ncontre,jdyoung2,Completed
+# Research Assistant,15,16
+* 7,Reviewing,Kerry,Tucker,kbtucker,tmbarnes,
+* 3,Submitted,Inez,Koch,ikoch,,

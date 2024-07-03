@@ -1,0 +1,9 @@
+# Position A,18,20
+* 2,Submitted,Carol,Schmidt,cschmid,,
+* 4,Hired,Fiona,Rosario,frosari,sesmith5,
+# Position B,10,12
+* 7,Inactive,Deanna,Sanders,dsander,tmbarnes,Completed
+* 8,Interviewing,Benjamin,Nieves,bmnieves,sesmith5,
+* 11,Processing,Quemby,Mullen,qmullen,sesmith5,
+# Position D,11,11
+* 3,Rejected,Kathleen,Gillespie,kgilles,,Incomplete

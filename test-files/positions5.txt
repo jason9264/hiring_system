@@ -1,0 +1,7 @@
+# CSC 216 PTF,12,
+* 2,Submitted,Carol,Schmidt,cschmid,,
+* 3,Rejected,Kathleen,Gillespie,kgilles,,Incomplete
+* 4,Hired,Fiona,Rosario,frosari,sesmith5,
+* 7,Inactive,Deanna,Sanders,dsander,sesmith5,Completed
+* 8,Interviewing,Benjamin,Nieves,bmnieves,sesmith5,
+* 11,Processing,Quemby,Mullen,qmullen,sesmith5,
