@@ -1,7 +1,3 @@
-Certainly! Here's a combined README file for your Java program, focusing on setup and basic usage without detailed testing information:
-
----
-
 # Wolf Hire Java Application
 
 ## Overview
